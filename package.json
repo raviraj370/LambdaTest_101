@@ -1,5 +1,5 @@
 {
-  "name": "lambdatest_101",
+  "name": "rv_playwright_lambdatest",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@playwright/test": "^1.44.1",
-    "@types/node": "^20.14.5"
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.12.2"
   }
 }
